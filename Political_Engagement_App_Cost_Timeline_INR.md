@@ -172,11 +172,11 @@
 |------|-------|----------|------------------|----------------|
 | Project Manager | 1 | 9 months | ₹6,60,000 | ₹59,40,000 |
 | UI/UX Designer | 1 | 6 months | ₹4,95,000 | ₹29,70,000 |
-| QA Engineer | 1 | 6 months | ₹5,77,500 | ₹34,65,000 |
+| QA Engineer | 1 | 6 months | ₹4,12,500 | ₹24,75,000 |
 | DevOps Engineer | 1 | 3 months | ₹6,60,000 | ₹19,80,000 |
-| **Subtotal Mid-Level** | **4** | **-** | **-** | **₹1,43,55,000** |
+| **Subtotal Mid-Level** | **4** | **-** | **-** | **₹1,33,65,000** |
 
-**Total HR Cost: ₹5,34,60,000**
+**Total HR Cost: ₹5,24,70,000**
 
 ### Infrastructure & Tools (15% of Total Cost)
 
@@ -204,33 +204,33 @@
 | Item | Cost (₹) | Description |
 |------|----------|-------------|
 | UI/UX Design | ₹12,37,500 | Complete design system |
-| Branding Assets | ₹6,60,000 | Logos, icons, graphics |
-| Stock Photos/Videos | ₹4,12,500 | Media assets |
-| **Subtotal Design** | **₹23,10,000** |
+| Branding Assets | ₹2,47,500 | Logos, icons, graphics (reduced from ₹6,60,000) |
+| Stock Photos/Videos | ₹1,23,750 | Media assets (reduced from ₹4,12,500) |
+| **Subtotal Design** | **₹16,08,750** |
 
 #### Quality Assurance
 | Item | Cost (₹) | Description |
 |------|----------|-------------|
-| Testing Services | ₹20,62,500 | Comprehensive testing |
-| Security Audit | ₹9,90,000 | Penetration testing |
-| Performance Testing | ₹6,60,000 | Load testing |
-| **Subtotal QA** | **₹37,12,500** |
+| Testing Services | ₹12,37,500 | Comprehensive testing (reduced from ₹20,62,500) |
+| Security Audit | ₹4,95,000 | Penetration testing (reduced from ₹9,90,000) |
+| Performance Testing | ₹3,30,000 | Load testing (reduced from ₹6,60,000) |
+| **Subtotal QA** | **₹20,62,500** |
 
 #### Documentation & Training
 | Item | Cost (₹) | Description |
 |------|----------|-------------|
-| Technical Documentation | ₹9,90,000 | API docs, user guides |
-| Training Materials | ₹6,60,000 | User training videos |
-| Legal Documentation | ₹8,25,000 | Terms, privacy policy |
-| **Subtotal Documentation** | **₹24,75,000** |
+| Technical Documentation | ₹6,60,000 | API docs, user guides (reduced from ₹9,90,000) |
+| Training Materials | ₹3,30,000 | User training videos (reduced from ₹6,60,000) |
+| Legal Documentation | ₹4,95,000 | Terms, privacy policy (reduced from ₹8,25,000) |
+| **Subtotal Documentation** | **₹14,85,000** |
 
 #### Contingency (10%)
-- **Contingency Fund**: ₹70,12,500
+- **Contingency Fund**: ₹58,37,250
 - **Risk Mitigation**: Buffer for unexpected costs
 
-**Total Additional Costs: ₹1,55,10,000**
+**Total Additional Costs: ₹1,09,93,500**
 
-**Total Project Cost: ₹7,75,99,500**
+**Total Project Cost: ₹7,20,93,000** *(Reduced from ₹7,75,99,500)*
 
 ## 💡 Cost Optimization Strategies
 
@@ -252,6 +252,55 @@
 - Auto-scaling based on demand
 - Multi-region optimization
 - **Potential Savings: ₹38,71,000-77,42,000**
+
+### Cost Reduction Implemented:
+
+#### **1. Stock Photos/Videos: ₹4,12,500 → ₹1,23,750 (70% reduction)**
+- **Strategy**: Use free stock photo websites (Unsplash, Pexels, Pixabay)
+- **Alternative**: Create custom graphics using Canva Pro (₹1,099/month)
+- **Savings**: ₹2,88,750
+
+#### **2. Branding Assets: ₹6,60,000 → ₹2,47,500 (62.5% reduction)**
+- **Strategy**: Use freelance designers on Fiverr/Upwork
+- **Alternative**: Use AI design tools (Midjourney, DALL-E)
+- **Savings**: ₹4,12,500
+
+#### **3. Testing Services: ₹20,62,500 → ₹12,37,500 (40% reduction)**
+- **Strategy**: Implement automated testing with open-source tools
+- **Alternative**: Use cloud-based testing platforms (BrowserStack, LambdaTest)
+- **Savings**: ₹8,25,000
+
+#### **4. Security Audit: ₹9,90,000 → ₹4,95,000 (50% reduction)**
+- **Strategy**: Use automated security scanning tools
+- **Alternative**: Hire security consultants for critical review only
+- **Savings**: ₹4,95,000
+
+#### **5. Performance Testing: ₹6,60,000 → ₹3,30,000 (50% reduction)**
+- **Strategy**: Use open-source load testing tools (JMeter, Artillery)
+- **Alternative**: Implement performance monitoring in development
+- **Savings**: ₹3,30,000
+
+#### **6. Training Materials: ₹6,60,000 → ₹3,30,000 (50% reduction)**
+- **Strategy**: Create in-house training videos using screen recording
+- **Alternative**: Use free video editing tools and templates
+- **Savings**: ₹3,30,000
+
+#### **7. Technical Documentation: ₹9,90,000 → ₹6,60,000 (33% reduction)**
+- **Strategy**: Use automated documentation generators
+- **Alternative**: Leverage developer time for documentation
+- **Savings**: ₹3,30,000
+
+#### **8. Legal Documentation: ₹8,25,000 → ₹4,95,000 (40% reduction)**
+- **Strategy**: Use legal document templates
+- **Alternative**: Hire legal consultant for review only
+- **Savings**: ₹3,30,000
+
+#### **9. QA Engineer: ₹34,65,000 → ₹24,75,000 (28.6% reduction)**
+- **Strategy**: Hire junior QA engineer with training
+- **Alternative**: Implement automated testing to reduce manual testing needs
+- **Savings**: ₹9,90,000
+
+**Total Cost Reduction: ₹43,31,250**
 
 ## 📊 Resource Allocation by Phase
 
